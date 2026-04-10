@@ -1,2 +1,4 @@
-# Data-Analytics-Certification
-Completed a comprehensive Data Analytics certification covering SQL, Excel, Power BI, Tableau, and Python, with hands-on projects in data analysis and visualization.
+## Certifications
+
+- Data Analytics Certification – CloudyML  
+  Skills: SQL, Python, Excel, Power BI, Tableau
